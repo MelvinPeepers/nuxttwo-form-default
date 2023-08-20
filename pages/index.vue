@@ -12,8 +12,7 @@ export default {
 
 <template>
   <div>
-    <h1>Netlify Form Example</h1>
-    <NetlifyForm />
+    <Form />
   </div>
 </template>
 
